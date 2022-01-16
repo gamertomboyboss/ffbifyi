@@ -1,0 +1,47 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+background-size: cover;
+}
+
+.div_song
+{
+    float: left;
+}
+
+.div_song_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#song
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas
+{
+    border: 5px solid darkblue;
+    border-radius: 20px;
+}
+
+.play_button
+{
+    width: 100px;
+    font-size: 25px
+}
